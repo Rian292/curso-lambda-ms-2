@@ -1,0 +1,4 @@
+.*chalice/
+*chalicelib/
+venv/
+scheduled.code-workspace
