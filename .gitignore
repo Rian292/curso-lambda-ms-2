@@ -2,3 +2,6 @@
 *chalicelib/
 venv/
 scheduled.code-workspace
+*.pyc
+.pyteste_cache/
+__pycache__
